@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+Hi 👋, I'm Sukhchain Kaur
 
 <!--
 **sukhchain77/sukhchain77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
