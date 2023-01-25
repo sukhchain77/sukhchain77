@@ -2,6 +2,9 @@
 
 Hi 👋, I'm Sukhchain Kaur
 
+![image](https://user-images.githubusercontent.com/113679780/214489744-620b0aa8-0a94-4ea6-bd7f-ed784db2fd29.png)
+
+
 <!--
 **sukhchain77/sukhchain77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
