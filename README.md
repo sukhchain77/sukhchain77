@@ -11,9 +11,32 @@
 
 - 👨‍💻 Check  My Portfolio :(https://shubhamtribhuvan8.github.io/)
 
-- 💬 Ask me about **C,Java,Data-Structure & Algorithm, Html-Css, Javascript, Node.js, Bootstrap**
-
 - 📫 How to reach me **sukhchaink317@gmail.com**
+
+# Languages and Tools :computer:
+
+<div>
+<img src="https://img.shields.io/badge/-Java-orange?style=flat" />
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
+<img src="https://img.shields.io/badge/-C++-red?style=flat)" />
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" />
+</div>
+
+<div>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js& " />
+<img src="https://img.shields.io/badge/-React-black?style=flat&logo=react& " />
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb& " />
+</div>
+<div>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white& )" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3& )" />
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap& ) " />
+</div>
+<div>
+<img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express& " />
+<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git& " />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github& " />
+</div>
 
 <div align="center" style="text-align:center">
 <h3 align="center">Connect with me:</h3>
