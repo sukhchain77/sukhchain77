@@ -39,7 +39,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sukhchain-kaur-6b9b7a192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-m-09ab97135" height="30" width="40" /></a>
-<a href="https://twitter.com/chiyanshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chiyanshika" height="30" width="40" /></a>
+<a href="https://twitter.com/sukh80034280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chiyanshika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,10 +48,10 @@
   
 <br>
 
-<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika1297&show_icons=true&locale=en&theme=tokyonight" alt="anshika1297" /></p>
+<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhchain&show_icons=true&locale=en&theme=tokyonight" alt="sukhchain" /></p>
 
 
-<p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=anshika1297&show_icons=true&locale=en&theme=tokyonight" alt="anshika1297" /></p>
+<p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=sukhchain&show_icons=true&locale=en&theme=tokyonight" alt="anshika1297" /></p>
 
 <p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika1297&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="anshika1297" />
 </p>
@@ -66,8 +66,8 @@
 
 <p align="left">
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
-<a href = "https://www.linkedin.com/in/anshika-m-09ab97135/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/chiyanshika"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/sukhchain-kaur-6b9b7a192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/sukh80034280"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 </p>
