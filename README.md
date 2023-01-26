@@ -72,10 +72,3 @@
 
 </p>
 
-
-## ❤ Views and Followers
-
-<a href="https://github.com/anshika1297/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=anshika1297">
-</a>
-<a href="https://github.com/anshika1297?tab=followers"><img src="https://img.shields.io/github/followers/anshika1297?label=Followers&style=social" alt="GitHub Badge"></a>
