@@ -22,7 +22,7 @@
 
 
 
-- See My Projects [Portfolio](https://my-new-port.netlify.app/)
+- See My Projects [Portfolio](https://sukhchain-kaur.netlify.app/)
 
 - 🌱 I’m currently learning **React**
 
@@ -46,7 +46,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://my-new-port.netlify.app/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
+<a href = "https://sukhchain-kaur.netlify.app/"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
 <a href = "https://www.linkedin.com/in/sukhchain-kaur-6b9b7a192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sukh80034280"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
