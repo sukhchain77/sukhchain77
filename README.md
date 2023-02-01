@@ -1,9 +1,6 @@
 
 
-<a href="#"><img width="100%"  src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-developed-website-6818422-5606167.png" height="auto"/></a>
-
-
-
+<img  width="100%" height="350px" src="https://img.freepik.com/premium-photo/teamwork-business-human-resources_31965-1842.jpg?w=1380" />
 
 <h1 align="center">Hi 👋, I'm Sukhchain Kaur</h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
