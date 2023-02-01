@@ -46,16 +46,6 @@
 <br>
 
 
-
-<p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika1297&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="anshika1297" />
-</p>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br>
-<p align="center"><img align="center" width="90%" src="https://github-profile-trophy.vercel.app/?username=anshika1297&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="anshika1297" />
-<br/>
-<br/>
-
 ## Connect with me:
 
 <p align="left">
