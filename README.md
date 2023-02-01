@@ -40,7 +40,7 @@
   
 <br>
 
-<p><img align="center"  Style="color:red" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsinha05&show_icons=true&locale=en&layout=compact" alt="rajatsinha05" width=100%" /></p>
+<p><img align="center"  Style="color:red" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsinha05&show_icons=true&locale=en&layout=compact" alt="rajatsinha05" width=100%" height= "200px" /></p>
 
 
 ## Connect with me:
